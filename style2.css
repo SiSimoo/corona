@@ -1,11 +1,3 @@
-/* ---------------------------------------------- */
-/*            CODE EXPLAINED TUTORIALS            */
-/*         www.youtube.com/CodeExplained          */
-/* ---------------------------------------------- */
-
-/* ---------------------------------------------- */
-/*                  LOAD FONTS                    */
-/* ---------------------------------------------- */
 @font-face{
     font-family: 'Gilroy';
     src: url(./Gilroy-Regular.woff) format(woff);
@@ -98,7 +90,7 @@ main{
 /* -------- BG IMAGE -------- */
 .stats{
     width: 100%;
-    background-image: linear-gradient(rgba(0,0,0,0.9), rgba(0,0,0,0.9)) ,url('../img/bg.jpg');
+    background-image: linear-gradient(rgba(0,0,0,0.9), rgba(0,0,0,0.9)) ,url('bg.jpg');
     background-size: cover;
 }
 /* -------- LATEST REPORT -------- */
